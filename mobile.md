@@ -24,7 +24,7 @@ Build a simple app that provides the following:
 
 - You can use any iOS or Android technologies to solve this challenge
 - Integrate with [Padmoney API Sandbox](https://api.padmoney.com/):
-  - Login/Lougout
+  - Login/Logout
   - Generate a Bank Billet
   - Send an email containing the bank billet informations
   - Create a simple list of bank billets
