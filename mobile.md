@@ -36,3 +36,7 @@ Build a simple app that provides the following:
 - The tools of choice to solve the problem
 - BONUS: Ability to write test code
 - BONUS: Create encrypted communication (using asymmetric keys, eg. GPG) between the application and the server
+
+### Submitting
+
+- Create a public GitHub repository and submit your code as Pull Request.
