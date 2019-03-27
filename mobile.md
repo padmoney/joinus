@@ -34,7 +34,7 @@ Build a simple app that provides the following:
 - Fully Understand of design patterns, OO concepts and other related concepts
 - Code design best practices
 - The tools of choice to solve the problem
-- BONUS: Ability to write test code
+- Ability to write test code
 - BONUS: Create encrypted communication (using asymmetric keys, eg. GPG) between the application and the server
 
 ### Submitting
